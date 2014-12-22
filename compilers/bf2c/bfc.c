@@ -1,8 +1,8 @@
 /*
-* fpbfc.c
-* The Brainfuck compiler
+* bdc.c
+* Brainfuck compiler
 * A simple BrainFuck to C interpreter and Compiler.
-* This program is free software;
+* This program is free software, yeah boi.
 */
 
 #include
