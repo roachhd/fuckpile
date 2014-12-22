@@ -1,4 +1,4 @@
-[/* fpbf2c.b
+[/* bf2c.b
 * The Brainfuck to C interpreter 
 * Katie ball
 *
